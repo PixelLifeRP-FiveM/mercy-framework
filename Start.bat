@@ -1,1 +1,1 @@
-C:\Users\Administrator\Desktop\Mercy-Framework\artifacts\FXServer.exe +exec cfg/server.cfg
+C:\RetroRemance\mercy-framework\artifacts\FXServer.exe +exec cfg/server.cfg\artifacts\FXServer.exe +exec cfg/server.cfg
